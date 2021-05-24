@@ -9,12 +9,6 @@ mvmn spring-boot:run
 <br />
 Use addProcutsTest.py (test\java\com\eCom\eCom) to 150 products to SQLite db
 
-## eCom
-
-npm install
-<br />
-ng serve
-
 ## To be added
 Removal of product from cart
 <br />
